@@ -1,2 +1,2 @@
-# gcse-maths
-Difficult exam-style questions for GCSE Mathematicians.
+# GCSE Maths
+Some difficult exam-style questions for GCSE Mathematicians.
